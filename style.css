@@ -1,0 +1,92 @@
+.circle {
+    background-color: white;
+    border-radius: 50%;
+    color:black;
+    height: 300px;
+    width: 300px;
+    border: 2px dotted black;
+
+}
+.center {
+    margin: auto;
+    position: absolute;
+    top: 35%;
+    left: 40%;
+}
+.circle-center {
+    height: 30px;
+    width: 30px;
+}
+
+.one {
+    position: absolute;
+    top: 15%;
+    right: 20%;
+    font-size: 30;
+}
+.two {
+    position: absolute;
+    top: 30%;
+    right: 10%;
+    font-size: 30;
+}
+.three {
+    position: absolute;
+    top:50%;
+    right: 5%;
+    font-size: 30;
+}
+.four {
+    position: absolute;
+    top: 70%;
+    right: 10%;
+    font-size: 30;
+}
+.five {
+    position: absolute;
+    top: 85%;
+    right: 25%;
+    font-size: 30;
+}
+.six {
+    position: absolute;
+    top: 90%;
+    right: 50%;
+    font-size: 30;
+}
+.eleven {
+    position: absolute;
+    top: 15%;
+    right: 80%;
+    font-size: 30;
+}
+.ten {
+    position: absolute;
+    top: 30%;
+    right: 10%;
+    font-size: 30;
+}
+.nine {
+    position: absolute;
+    top:50%;
+    right: 5%;
+    font-size: 30;
+}
+.eight {
+    position: absolute;
+    top: 70%;
+    right: 10%;
+    font-size: 30;
+}
+.seven {
+    position: absolute;
+    top: 85%;
+    right: 55%;
+    font-size: 30;
+}
+.twelve {
+    position: absolute;
+    top: 5%;
+    right: 50%;
+    font-size: 30;
+}
